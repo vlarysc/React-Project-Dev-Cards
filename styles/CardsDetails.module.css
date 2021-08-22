@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.boxDev {
+  border: 2px solid rgb(150, 148, 148);
+  text-align: center;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.photo {
+  border: 3px solid #4dbeec;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  background-color: #d3d6db;
+}
+
+.name {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-image: url("../src//assets/xyz-company-brush-card.png");
+  background-size: 100% 130%;
+
+  font-size: 27px;
+  font-family: "Lobster", cursive;
+}
+
+.skills {
+  margin-bottom: 30px;
+}
+
+.icon {
+  cursor: pointer;
+}
